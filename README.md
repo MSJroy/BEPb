@@ -7,7 +7,7 @@
     <a href="https://github.com/MSJroy/graphs/contributors"><img src="https://img.shields.io/github/contributors/BEPb/BEPb?color=blue"></a>
     <a href="https://github.com/MSJroy/stargazers"><img src="https://img.shields.io/github/stars/BEPb/BEPb.svg?logo=github"></a>
     <a href="https://github.com/MSJroy/network/members"><img src="https://img.shields.io/github/forks/BEPb/BEPb.svg?color=blue&logo=github"></a>
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=BEPb.BEPb" alt="visitors"/>   
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=MSJroy.MSJroy" alt="visitors"/>   
 </p>
 
 <!--   my-header-img -->
